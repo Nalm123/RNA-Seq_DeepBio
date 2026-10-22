@@ -1,2 +1,5 @@
 # RNA-Seq_DeepBio
-RNA-Seq workflow
+
+Bulk RNA-Seq workflow
+
+Download the data: install fastq -dl

@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1039508_1	/mnt/c/Users/DC/OneDrive/Desktop/BMP mentorship- cohort 3/RNA-Seq_DeepBio/outputs/qc/fastqc/SRR1039508_1_fastqc.zip
+FastQC	all_sections	SRR1039508_2	/mnt/c/Users/DC/OneDrive/Desktop/BMP mentorship- cohort 3/RNA-Seq_DeepBio/outputs/qc/fastqc/SRR1039508_2_fastqc.zip
+FastQC	all_sections	SRR1039509_1	/mnt/c/Users/DC/OneDrive/Desktop/BMP mentorship- cohort 3/RNA-Seq_DeepBio/outputs/qc/fastqc/SRR1039509_1_fastqc.zip
+FastQC	all_sections	SRR1039509_2	/mnt/c/Users/DC/OneDrive/Desktop/BMP mentorship- cohort 3/RNA-Seq_DeepBio/outputs/qc/fastqc/SRR1039509_2_fastqc.zip
